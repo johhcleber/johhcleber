@@ -1,7 +1,7 @@
 # Hi, I'm John Cleber! ^^ 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/johhcleber)](https://github.com/johhcleber)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-cleber-5b23a21a0/)](https://www.linkedin.com/in/john-cleber-5b23a21a0/)
 
 ### About me
 
