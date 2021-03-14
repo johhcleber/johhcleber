@@ -5,9 +5,9 @@
 
 ### About me
 
-- :coffee: I am a php developer and a good practice enthusiast, always looking to find the best way to write good code.
-- :office: I'm currently working as a php programmer at Athenas (https://www.athenas3000.com.br/).
-- :computer: I am currently learning javaScript and going deeper into php, in addition to using some php fremeworks such as: laravel, slim and cake.
+- :coffee: Um amante de boas práticas, sempre buscando a melhor forma de escrever um código.
+- :office: Trabalho atualmente como desenvolvedor php na empresa Athenas (https://www.athenas3000.com.br/).
+- :computer: Atualmente estou estudando javaScrip e aprofundando meus conhecimentos em php.
 
 
 
