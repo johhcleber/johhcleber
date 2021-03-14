@@ -7,7 +7,7 @@
 
 - :coffee: Um amante de boas práticas, sempre buscando a melhor forma de escrever um código.
 - :office: Trabalho atualmente como desenvolvedor php na empresa Athenas (https://www.athenas3000.com.br/).
-- :computer: Atualmente estou estudando javaScrip e aprofundando meus conhecimentos em php.
+- :computer: Atualmente estou estudando javaScript e aprofundando meus conhecimentos em php.
 
 
 
